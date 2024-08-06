@@ -26,7 +26,7 @@ This project is a Java-based console application featuring three types of guessi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/gvsrgh/guessing-game.git
+   git clone https://github.com/gvsrgh/Java-Project-Works.git
    ```
 
 2. Navigate to the project directory:
