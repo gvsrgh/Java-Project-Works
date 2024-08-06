@@ -1,3 +1,5 @@
+Here is the corrected and properly formatted Markdown document:
+
 ```markdown
 # Guessing Game
 
@@ -39,7 +41,7 @@ This project is a Java-based console application featuring three types of guessi
 3. Compile the Java files:
 
    ```bash
-   javac Gussing_Game/*.java
+   javac Guessing_Game/*.java
    ```
 
 ## Usage
@@ -47,7 +49,7 @@ This project is a Java-based console application featuring three types of guessi
 1. Run the `App` class to start the menu-driven interface:
 
    ```bash
-   java Gussing_Game.App
+   java Guessing_Game.App
    ```
 
 2. Choose from the following options:
@@ -97,5 +99,4 @@ This project is a Java-based console application featuring three types of guessi
 ---
 
 Feel free to modify or extend the project as needed. Enjoy the games!
-
 ```
