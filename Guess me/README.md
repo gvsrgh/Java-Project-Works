@@ -27,7 +27,7 @@ This project is a Java-based console application featuring three types of guessi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/guessing-game.git
+   git clone https://github.com/gvsrgh/guessing-game.git
    ```
 
 2. Navigate to the project directory:
@@ -94,14 +94,8 @@ This project is a Java-based console application featuring three types of guessi
   - `start()`: Prints a message specific to the word guessing game.
   - `guess()`: Contains the logic for the word guessing game and provides hints.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to modify or extend the project as needed. Enjoy the games!
 
 ```
-
-Replace the URL in the `Installation` section with your actual repository URL, and adjust any specific details according to your project structure or additional requirements.
