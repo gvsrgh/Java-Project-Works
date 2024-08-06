@@ -96,4 +96,3 @@ This project is a Java-based console application featuring three types of guessi
 ---
 
 Feel free to modify or extend the project as needed. Enjoy the games!
-```
