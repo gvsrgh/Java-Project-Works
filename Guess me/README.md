@@ -1,5 +1,3 @@
-Here is the corrected and properly formatted Markdown document:
-
 ```markdown
 # Guessing Game
 
