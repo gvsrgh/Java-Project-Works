@@ -1,4 +1,3 @@
-```markdown
 # Guessing Game
 
 This project is a Java-based console application featuring three types of guessing games: guessing a number, guessing a character, and guessing a word. It provides a simple menu-driven interface to choose between these games or exit the application.
